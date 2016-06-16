@@ -1,0 +1,24 @@
+body {
+	font-family: Helvetica, sans-serif;
+	font-style: bold;
+	text-decoration: none;
+	color: black;
+}
+a {
+	font-style: bold;
+	text-decoration: none;
+	color: black;
+}
+div {
+	margin: 2em;
+}
+.w100 {
+	width: 100%;
+}
+.w50c {
+	width: 50%;
+	margin-left: 25%;
+}
+.center {
+	text-align: center;
+}
